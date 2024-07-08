@@ -1,1 +1,5 @@
 Welcome to GIT Session!
+Today is day 1 
+ To Learn GIT commit
+
+Check Error without Message 
