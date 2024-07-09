@@ -4,4 +4,6 @@ Today is day 1
 
 Check Error without Message
 
-We also learn to stage and commit files 
+We also learn to stage and commit files.
+
+Today is day 2 session. 
