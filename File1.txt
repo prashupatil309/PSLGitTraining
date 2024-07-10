@@ -8,4 +8,4 @@ We also learn to stage and commit files.
 
 Today is day 2 session.
 
-Today Day 3 we are going to learn Branching. 
+Today Day 3 we are going to learn Branching. ******
